@@ -1,5 +1,4 @@
 ### OLá! Sou Carlos Gabryel 👋
-- Apelidos: Carlinhos/Gabry
 
 <div>
   <a href="https://github.com/CarlosGabryel">
